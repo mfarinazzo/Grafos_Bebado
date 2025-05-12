@@ -1,3 +1,5 @@
+# Feito por: Murilo Farinazzo Vieira; Lucas de Souza Silva; Murilo Amorim Bueno Godoy
+
 import random
 import networkx as nx
 import matplotlib.pyplot as plt
